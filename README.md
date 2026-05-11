@@ -1,4 +1,4 @@
-# Ella-3.14.5
+# Ella Assistant
 
 Ella pinned to Python **3.14.5**. Source files use **UTF-8** (`# -*- coding: utf-8 -*-` in `.py`, `.editorconfig` for editors).
 
